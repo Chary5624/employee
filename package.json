@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "homepage":"/employee",
   "private": true,
-   "homepage": "https://chary5624.github.io/employee/",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
